@@ -7,8 +7,8 @@
   },
   {
     "full_name": "actions/setup-node",
-    "stargazers_count": 2157,
-    "open_issues_count": 46,
+    "stargazers_count": 2162,
+    "open_issues_count": 47,
     "forks_count": 783
   },
   {
@@ -31,37 +31,37 @@
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 516,
+    "stargazers_count": 538,
     "open_issues_count": 90,
     "forks_count": 28
   },
   {
     "full_name": "actions/starter-workflows",
-    "stargazers_count": 6267,
-    "open_issues_count": 20,
-    "forks_count": 5022
+    "stargazers_count": 6273,
+    "open_issues_count": 19,
+    "forks_count": 5027
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39660,
-    "open_issues_count": 817,
-    "forks_count": 27450
+    "stargazers_count": 39667,
+    "open_issues_count": 825,
+    "forks_count": 27449
   },
   {
     "full_name": "williamfiset/Algorithms",
-    "stargazers_count": 12891,
+    "stargazers_count": 12900,
     "open_issues_count": 80,
-    "forks_count": 3507
+    "forks_count": 3506
   },
   {
     "full_name": "kefranabg/readme-md-generator",
-    "stargazers_count": 9627,
+    "stargazers_count": 9632,
     "open_issues_count": 29,
     "forks_count": 1106
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 53478,
+    "stargazers_count": 53487,
     "open_issues_count": 8,
     "forks_count": 10447
   },
@@ -86,18 +86,18 @@
   {
     "full_name": "lerna/lerna",
     "stargazers_count": 32953,
-    "open_issues_count": 407,
+    "open_issues_count": 405,
     "forks_count": 2173
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 2605,
+    "stargazers_count": 2607,
     "open_issues_count": 33,
-    "forks_count": 338
+    "forks_count": 340
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 6052,
+    "stargazers_count": 6053,
     "open_issues_count": 29,
     "forks_count": 296
   },
@@ -115,67 +115,67 @@
   },
   {
     "full_name": "react-dates/react-dates",
-    "stargazers_count": 11875,
+    "stargazers_count": 11877,
     "open_issues_count": 603,
     "forks_count": 1712
   },
   {
     "full_name": "node-cron/node-cron",
-    "stargazers_count": 2288,
+    "stargazers_count": 2289,
     "open_issues_count": 112,
-    "forks_count": 195
+    "forks_count": 196
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 18482,
+    "stargazers_count": 18512,
     "open_issues_count": 39,
-    "forks_count": 530
+    "forks_count": 533
   },
   {
     "full_name": "moove-it/react-native-template",
     "stargazers_count": 249,
     "open_issues_count": 15,
-    "forks_count": 272
+    "forks_count": 271
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 103409,
-    "open_issues_count": 2200,
-    "forks_count": 22196
+    "stargazers_count": 103425,
+    "open_issues_count": 2194,
+    "forks_count": 22198
   },
   {
     "full_name": "dwyl/repo-badges",
-    "stargazers_count": 2644,
+    "stargazers_count": 2642,
     "open_issues_count": 8,
-    "forks_count": 1206
+    "forks_count": 1205
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 6752,
+    "stargazers_count": 6760,
     "open_issues_count": 12,
-    "forks_count": 15079
+    "forks_count": 15091
   },
   {
     "full_name": "react-native-webview/react-native-webview",
-    "stargazers_count": 4781,
-    "open_issues_count": 99,
-    "forks_count": 2406
+    "stargazers_count": 4785,
+    "open_issues_count": 98,
+    "forks_count": 2407
   },
   {
     "full_name": "priyankavergadia/google-cloud-4-words",
-    "stargazers_count": 6535,
+    "stargazers_count": 6537,
     "open_issues_count": 36,
-    "forks_count": 1386
+    "forks_count": 1387
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6026,
-    "open_issues_count": 430,
-    "forks_count": 1822
+    "stargazers_count": 6030,
+    "open_issues_count": 435,
+    "forks_count": 1824
   },
   {
     "full_name": "redis/node-redis",
-    "stargazers_count": 15271,
+    "stargazers_count": 15273,
     "open_issues_count": 190,
     "forks_count": 1653
   }
