@@ -1,26 +1,26 @@
 [
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 21417,
+    "stargazers_count": 21451,
     "open_issues_count": 99,
-    "forks_count": 791
+    "forks_count": 790
   },
   {
     "full_name": "bahmutov/npm-install",
     "stargazers_count": 548,
-    "open_issues_count": 23,
+    "open_issues_count": 21,
     "forks_count": 46
   },
   {
     "full_name": "actions/setup-node",
-    "stargazers_count": 2175,
+    "stargazers_count": 2177,
     "open_issues_count": 52,
-    "forks_count": 790
+    "forks_count": 791
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 2812,
-    "open_issues_count": 290,
+    "stargazers_count": 2813,
+    "open_issues_count": 291,
     "forks_count": 926
   },
   {
@@ -31,51 +31,51 @@
   },
   {
     "full_name": "amannn/action-semantic-pull-request",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 9,
     "forks_count": 55
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 610,
-    "open_issues_count": 90,
+    "stargazers_count": 612,
+    "open_issues_count": 89,
     "forks_count": 38
   },
   {
     "full_name": "actions/starter-workflows",
-    "stargazers_count": 6300,
-    "open_issues_count": 24,
-    "forks_count": 5038
+    "stargazers_count": 6304,
+    "open_issues_count": 25,
+    "forks_count": 5043
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39743,
-    "open_issues_count": 792,
-    "forks_count": 27482
+    "stargazers_count": 39757,
+    "open_issues_count": 798,
+    "forks_count": 27486
   },
   {
     "full_name": "williamfiset/Algorithms",
-    "stargazers_count": 12923,
+    "stargazers_count": 12935,
     "open_issues_count": 81,
     "forks_count": 3519
   },
   {
     "full_name": "kefranabg/readme-md-generator",
-    "stargazers_count": 9648,
+    "stargazers_count": 9650,
     "open_issues_count": 29,
-    "forks_count": 1110
+    "forks_count": 1113
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 53567,
+    "stargazers_count": 53581,
     "open_issues_count": 5,
-    "forks_count": 10464
+    "forks_count": 10463
   },
   {
     "full_name": "DaltonHart/HowTo-React-Webpack-Babel",
     "stargazers_count": 21,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "MarianTLibrarian/BookFace",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 32997,
+    "stargazers_count": 32999,
     "open_issues_count": 412,
     "forks_count": 2177
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 2636,
-    "open_issues_count": 36,
+    "stargazers_count": 2641,
+    "open_issues_count": 35,
     "forks_count": 346
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 6084,
+    "stargazers_count": 6086,
     "open_issues_count": 29,
     "forks_count": 296
   },
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "react-dates/react-dates",
-    "stargazers_count": 11882,
+    "stargazers_count": 11883,
     "open_issues_count": 605,
     "forks_count": 1711
   },
   {
     "full_name": "node-cron/node-cron",
-    "stargazers_count": 2292,
-    "open_issues_count": 112,
-    "forks_count": 196
+    "stargazers_count": 2293,
+    "open_issues_count": 114,
+    "forks_count": 197
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 18729,
+    "stargazers_count": 18755,
     "open_issues_count": 36,
-    "forks_count": 532
+    "forks_count": 533
   },
   {
     "full_name": "moove-it/react-native-template",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 103556,
+    "stargazers_count": 103573,
     "open_issues_count": 2182,
-    "forks_count": 22213
+    "forks_count": 22212
   },
   {
     "full_name": "dwyl/repo-badges",
-    "stargazers_count": 2648,
+    "stargazers_count": 2647,
     "open_issues_count": 8,
-    "forks_count": 1207
+    "forks_count": 1208
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 6837,
+    "stargazers_count": 6843,
     "open_issues_count": 12,
-    "forks_count": 15225
+    "forks_count": 15247
   },
   {
     "full_name": "react-native-webview/react-native-webview",
-    "stargazers_count": 4795,
+    "stargazers_count": 4798,
     "open_issues_count": 103,
-    "forks_count": 2415
+    "forks_count": 2418
   },
   {
     "full_name": "priyankavergadia/google-cloud-4-words",
     "stargazers_count": 6552,
     "open_issues_count": 37,
-    "forks_count": 1395
+    "forks_count": 1396
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6050,
-    "open_issues_count": 417,
+    "stargazers_count": 6054,
+    "open_issues_count": 419,
     "forks_count": 1837
   }
 ]
