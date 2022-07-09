@@ -8,12 +8,12 @@
   {
     "full_name": "salesforce-ux/design-system",
     "stargazers_count": 3287,
-    "open_issues_count": 6,
+    "open_issues_count": 8,
     "forks_count": 763
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 21607,
+    "stargazers_count": 21616,
     "open_issues_count": 93,
     "forks_count": 797
   },
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "actions/setup-node",
-    "stargazers_count": 2189,
-    "open_issues_count": 46,
-    "forks_count": 793
+    "stargazers_count": 2192,
+    "open_issues_count": 45,
+    "forks_count": 794
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 2826,
-    "open_issues_count": 292,
-    "forks_count": 938
+    "stargazers_count": 2833,
+    "open_issues_count": 294,
+    "forks_count": 939
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
-    "stargazers_count": 129,
+    "stargazers_count": 128,
     "open_issues_count": 8,
     "forks_count": 8
   },
@@ -49,39 +49,39 @@
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 643,
-    "open_issues_count": 95,
+    "stargazers_count": 648,
+    "open_issues_count": 98,
     "forks_count": 42
   },
   {
     "full_name": "actions/starter-workflows",
-    "stargazers_count": 6327,
+    "stargazers_count": 6329,
     "open_issues_count": 29,
     "forks_count": 5057
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39830,
-    "open_issues_count": 797,
-    "forks_count": 27531
+    "stargazers_count": 39849,
+    "open_issues_count": 799,
+    "forks_count": 27542
   },
   {
     "full_name": "williamfiset/Algorithms",
-    "stargazers_count": 12976,
+    "stargazers_count": 12980,
     "open_issues_count": 83,
-    "forks_count": 3536
+    "forks_count": 3538
   },
   {
     "full_name": "kefranabg/readme-md-generator",
-    "stargazers_count": 9658,
+    "stargazers_count": 9665,
     "open_issues_count": 29,
-    "forks_count": 1118
+    "forks_count": 1117
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 53710,
+    "stargazers_count": 53771,
     "open_issues_count": 5,
-    "forks_count": 10482
+    "forks_count": 10490
   },
   {
     "full_name": "DaltonHart/HowTo-React-Webpack-Babel",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 33051,
-    "open_issues_count": 412,
-    "forks_count": 2181
+    "stargazers_count": 33062,
+    "open_issues_count": 415,
+    "forks_count": 2183
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 2655,
+    "stargazers_count": 2656,
     "open_issues_count": 34,
-    "forks_count": 348
+    "forks_count": 349
   },
   {
     "full_name": "mcollina/autocannon",
@@ -133,49 +133,49 @@
   },
   {
     "full_name": "react-dates/react-dates",
-    "stargazers_count": 11886,
+    "stargazers_count": 11890,
     "open_issues_count": 605,
     "forks_count": 1711
   },
   {
     "full_name": "node-cron/node-cron",
-    "stargazers_count": 2299,
+    "stargazers_count": 2300,
     "open_issues_count": 115,
     "forks_count": 198
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 19023,
-    "open_issues_count": 42,
+    "stargazers_count": 19065,
+    "open_issues_count": 45,
     "forks_count": 548
   },
   {
     "full_name": "moove-it/react-native-template",
     "stargazers_count": 253,
     "open_issues_count": 15,
-    "forks_count": 273
+    "forks_count": 274
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 103666,
-    "open_issues_count": 2198,
-    "forks_count": 22232
+    "stargazers_count": 103678,
+    "open_issues_count": 2200,
+    "forks_count": 22234
   },
   {
     "full_name": "dwyl/repo-badges",
     "stargazers_count": 2649,
     "open_issues_count": 8,
-    "forks_count": 1209
+    "forks_count": 1210
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 6913,
+    "stargazers_count": 6926,
     "open_issues_count": 12,
-    "forks_count": 15379
+    "forks_count": 15401
   },
   {
     "full_name": "react-native-webview/react-native-webview",
-    "stargazers_count": 4818,
+    "stargazers_count": 4821,
     "open_issues_count": 108,
     "forks_count": 2432
   }
