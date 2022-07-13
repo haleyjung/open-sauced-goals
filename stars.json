@@ -1,14 +1,14 @@
 [
   {
     "full_name": "react-grid-layout/react-grid-layout",
-    "stargazers_count": 16028,
+    "stargazers_count": 16030,
     "open_issues_count": 110,
-    "forks_count": 2208
+    "forks_count": 2207
   },
   {
     "full_name": "pinterest/gestalt",
-    "stargazers_count": 3984,
-    "open_issues_count": 13,
+    "stargazers_count": 3983,
+    "open_issues_count": 10,
     "forks_count": 316
   },
   {
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 21667,
+    "stargazers_count": 21695,
     "open_issues_count": 93,
-    "forks_count": 800
+    "forks_count": 804
   },
   {
     "full_name": "bahmutov/npm-install",
-    "stargazers_count": 550,
+    "stargazers_count": 552,
     "open_issues_count": 21,
     "forks_count": 46
   },
   {
     "full_name": "actions/setup-node",
-    "stargazers_count": 2204,
-    "open_issues_count": 46,
-    "forks_count": 797
+    "stargazers_count": 2207,
+    "open_issues_count": 50,
+    "forks_count": 799
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 2842,
+    "stargazers_count": 2847,
     "open_issues_count": 295,
-    "forks_count": 942
+    "forks_count": 945
   },
   {
     "full_name": "mtfoley/pr-compliance-action",
@@ -55,39 +55,39 @@
   },
   {
     "full_name": "tensorchord/envd",
-    "stargazers_count": 660,
+    "stargazers_count": 659,
     "open_issues_count": 96,
     "forks_count": 45
   },
   {
     "full_name": "actions/starter-workflows",
-    "stargazers_count": 6337,
+    "stargazers_count": 6339,
     "open_issues_count": 29,
-    "forks_count": 5060
+    "forks_count": 5064
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 39881,
-    "open_issues_count": 806,
-    "forks_count": 27550
+    "stargazers_count": 39889,
+    "open_issues_count": 815,
+    "forks_count": 27564
   },
   {
     "full_name": "williamfiset/Algorithms",
-    "stargazers_count": 12996,
+    "stargazers_count": 13000,
     "open_issues_count": 83,
-    "forks_count": 3543
+    "forks_count": 3544
   },
   {
     "full_name": "kefranabg/readme-md-generator",
-    "stargazers_count": 9671,
+    "stargazers_count": 9678,
     "open_issues_count": 29,
-    "forks_count": 1119
+    "forks_count": 1120
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 54249,
+    "stargazers_count": 54399,
     "open_issues_count": 4,
-    "forks_count": 10520
+    "forks_count": 10530
   },
   {
     "full_name": "DaltonHart/HowTo-React-Webpack-Babel",
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "lerna/lerna",
-    "stargazers_count": 33076,
-    "open_issues_count": 414,
-    "forks_count": 2188
+    "stargazers_count": 33081,
+    "open_issues_count": 416,
+    "forks_count": 2189
   },
   {
     "full_name": "ryo-ma/github-profile-trophy",
-    "stargazers_count": 2664,
+    "stargazers_count": 2667,
     "open_issues_count": 34,
-    "forks_count": 349
+    "forks_count": 348
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 6107,
+    "stargazers_count": 6111,
     "open_issues_count": 30,
     "forks_count": 297
   },
@@ -146,26 +146,26 @@
   {
     "full_name": "node-cron/node-cron",
     "stargazers_count": 2302,
-    "open_issues_count": 116,
-    "forks_count": 198
+    "open_issues_count": 118,
+    "forks_count": 199
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 19196,
-    "open_issues_count": 46,
-    "forks_count": 551
+    "stargazers_count": 19243,
+    "open_issues_count": 49,
+    "forks_count": 553
   },
   {
     "full_name": "moove-it/react-native-template",
-    "stargazers_count": 253,
+    "stargazers_count": 252,
     "open_issues_count": 15,
-    "forks_count": 275
+    "forks_count": 276
   },
   {
     "full_name": "facebook/react-native",
-    "stargazers_count": 103708,
-    "open_issues_count": 2208,
-    "forks_count": 22246
+    "stargazers_count": 103726,
+    "open_issues_count": 2207,
+    "forks_count": 22251
   },
   {
     "full_name": "dwyl/repo-badges",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 6961,
+    "stargazers_count": 6983,
     "open_issues_count": 12,
-    "forks_count": 15453
+    "forks_count": 15485
   }
 ]
